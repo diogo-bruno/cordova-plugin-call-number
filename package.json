@@ -1,0 +1,31 @@
+{
+  "name": "cordova-plugin-call-number",
+  "version": "1.0.5",
+  "description": "Call Number from Cordova Application - Version Fork/GIT-1.0.4",
+  "cordova": {
+    "id": "cordova-plugin-call-number",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogo-bruno/cordova-plugin-call-number.git"
+  },
+  "keywords": [
+    "cordova",
+    "call",
+    "dialer",
+    "phonegap",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/diogo-bruno/cordova-plugin-call-number/issues"
+  },
+  "homepage": "https://github.com/diogo-bruno/cordova-plugin-call-number#readme"
+}
